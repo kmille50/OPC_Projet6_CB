@@ -12,7 +12,7 @@ Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne
 Linda, Lead Data Scientist, vous demande donc d'étudier la faisabilité d'un moteur de classification des articles en différentes catégories, avec un niveau de précision suffisant.
 
 ## Le travail dans ce dossier 
-Un ou des notebooks (ou des fichiers .py) contenant les fonctions permettant le prétraitement et la feature extraction des données textes et images ainsi que les résultats de l’étude de faisabilité (graphiques, mesure de similarité) 
-Un notebook de classification supervisée des images
-Un script Python (notebook ou fichier .py) de test de l’API et le fichier au format “csv” contenant les produits extraits
-Un support de présentation 
+Un ou des notebooks (ou des fichiers .py) contenant les fonctions permettant le prétraitement et la feature extraction des données textes et images ainsi que les résultats de l’étude de faisabilité (graphiques, mesure de similarité).
+Un notebook de classification supervisée des images.
+Un script Python (notebook ou fichier .py) de test de l’API et le fichier au format “csv” contenant les produits extraits.
+Un support de présentation.
